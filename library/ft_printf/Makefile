@@ -6,11 +6,11 @@
 #    By: sramasam <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/07/08 10:38:16 by sramasam          #+#    #+#              #
-#    Updated: 2025/07/08 11:07:06 by sramasam         ###   ########.fr        #
+#    Updated: 2025/11/21 19:22:10 by sramasam         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME := libftprintf.a
+NAME := ft_printf.a
 
 SRCS := ft_printf.c ft_printf_essential.c ft_printf_utils.c
 
